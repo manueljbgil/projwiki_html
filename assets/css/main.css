@@ -6,6 +6,14 @@
  * 2. Prevent adjustments of font size after orientation changes in
  *    IE on Windows Phone and in iOS.
  */
+
+img[alt=daniel] {width: 140px}
+img[alt=simoes] {width: 140px}
+img[alt=manel] {width: 140px}
+img[alt=savely] {width: 140px} 
+img[alt=volodymir] {width: 140px}
+
+
 html {
   line-height: 1.15;
   /* 1 */
